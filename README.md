@@ -217,10 +217,8 @@ telecom-churn-prediction/
 
 ## 👤 Author
 
-**Your Name**
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Portfolio: [your-website.com](https://your-website.com)
+**Parth Patel**
+- LinkedIn: (https://www.linkedin.com/in/parth-patel-03800917a/)
 
 ---
 
