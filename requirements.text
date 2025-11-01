@@ -1,0 +1,46 @@
+streamlit==1.28.0
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.3.0
+xgboost==2.0.0
+plotly==5.17.0
+pickle-mixin==1.0.2
+```
+
+---
+
+## 🚫 **CREATE .gitignore**
+```
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+*.csv
+*.xlsx
+data/raw/
+
+# Models (optional - if too large)
+# models/*.pkl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
